@@ -1,0 +1,10 @@
+{
+    "name": "USDT",
+    "type": "TRC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "USDT NEO"
+    "explorer": "https://tronscan.org/#/token20/txmh2fzkxsb4cyrzqilehcsphpskl5r42w5",
+    "status": "active",
+    "id": "txmh2fzkxsb4cyrzqilehcsphpskl5r42w5"
+}
